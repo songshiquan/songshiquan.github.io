@@ -1,5 +1,4 @@
 export default {
-  base: '/docs/',
   themeConfig: {
     siteTitle: false,
     logo: "/logo.png",
